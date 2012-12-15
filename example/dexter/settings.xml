@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8">
+<settings>
+    <setting name="url">http://www.wunschliste.de/serie/dexter</setting>
+    <setting name="seasonImage">false</setting>
+    <setting name="episodeThumbnail">true</setting>
+    <setting name="episodeText">false</setting>
+</settings>

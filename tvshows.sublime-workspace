@@ -1,0 +1,395 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"argu",
+				"arguments"
+			],
+			[
+				"acc",
+				"access=\"remote\"	access"
+			],
+			[
+				"writefo",
+				"writeFinderToMongo"
+			],
+			[
+				"serial",
+				"serializeJSON	fn. (cfscript)"
+			],
+			[
+				"struct",
+				"structKeyList	fn. (cfscript)"
+			],
+			[
+				"write",
+				"writeOutput	fn. (cfscript)"
+			],
+			[
+				"json",
+				"serializeJSON	fn. (cfscript)"
+			],
+			[
+				"re",
+				"returntype	@returntype"
+			],
+			[
+				"de",
+				"default	@default"
+			],
+			[
+				"struc",
+				"structNew	fn. (cfscript)"
+			],
+			[
+				"returnty",
+				"returntype=\"Struct\"	returntype"
+			],
+			[
+				"st",
+				"structs"
+			],
+			[
+				"ret",
+				"returntype=\"boolean\"	returntype"
+			],
+			[
+				"Objec",
+				"createObject	fn. (cfscript)"
+			],
+			[
+				"cfret",
+				"cfreturn	Tag (cmfl)"
+			],
+			[
+				"structkey",
+				"structKeyExists	fn. (cfscript)"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"ap",
+				"application=\"false\"	application"
+			],
+			[
+				"cflog",
+				"cflog	Tag (cmfl)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"syncold",
+				"Set Syntax: ColdFusion Markup"
+			],
+			[
+				"syncol",
+				"Set Syntax: ColdFusion Markup"
+			],
+			[
+				"syn cold",
+				"Set Syntax: ColdFusion Component"
+			],
+			[
+				"syn co",
+				"Set Syntax: ColdFusion Markup"
+			],
+			[
+				"gist",
+				"Gist: Create Private Gist"
+			],
+			[
+				"syn htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn html",
+				"Set Syntax: HTML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"set syn cold",
+				"Set Syntax: ColdFusion Markup"
+			],
+			[
+				"set syn col",
+				"Set Syntax: ColdFusion Markup"
+			],
+			[
+				"set syn	cold",
+				"Set Syntax: ColdFusion Markup"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/railo/webroot/partnersites_search/search.cfc",
+		"/Applications/railo/webroot/partnersites_search/index.cfm",
+		"/Applications/railo/webroot/partnersites_search/cfc/com/pixeltex/elasticsearch/controller/Search.cfc",
+		"/Applications/railo/webroot/partnersites_search/Application.cfc",
+		"/Applications/railo/webroot/partnersites_search/cfc/com/pixeltex/elasticsearch/controller/Create.cfc",
+		"/Applications/railo/webroot/partnersites_search/cfc/com/pixeltex/elasticsearch/controller/DeleteController.cfc",
+		"/Applications/railo/webroot/partnersites_search/cfc/com/pixeltex/elasticsearch/controller/UpdateController.cfc",
+		"/Applications/railo/webroot/partnersites_search/cfc/com/pixeltex/elasticsearch/controller/ReadController.cfc",
+		"/Applications/railo/webroot/partnersites_search/cfc/com/pixeltex/elasticsearch/controller/SearchController.cfc",
+		"/Applications/railo/webroot/partnersites_search/cfc/com/pixeltex/elasticsearch/controller/SearchController.cfm",
+		"/Applications/railo/webroot/partnersites_search/cfc/com/pixeltex/elasticsearch/controller/CreateController.cfc",
+		"/Applications/railo/webroot/partnersites_search/config/ClientConstants.cfc",
+		"/Applications/railo/webroot/JavaLoader2/example/dynamicProxy/index.cfm",
+		"/Applications/railo/webroot/JavaLoader2/java/cfcdynamicproxy/src/com/compoundtheory/coldfusion/cfc/CFCDynamicProxy.java",
+		"/Applications/railo/webroot/JavaLoader2/example/compileHelloWorld/index.cfm",
+		"/Applications/railo/webroot/JavaLoader2/example/loadHelloWorld/index.cfm",
+		"/Applications/railo/webroot/classloader/test.cfm",
+		"/Applications/railo/webroot/classloader/src/HalloWorld.java",
+		"/Applications/railo/webroot/JavaLoader/javaloader/JavaLoader.cfc",
+		"/Applications/railo/webroot/JavaLoader/example/compileHelloWorld/src/HelloWorld.java",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/CC111ABF-BAC6-4E8E-85F2-0A263AD90703/events.cfm",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/93F14FA5-FBE3-476F-A880-00FBDAA4A9AF/watchlist.cfm",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/A41336F9-B5A7-4412-9B25-391B06FDD05B/mapping.cfm",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/D2B6BB78-6CF4-4444-9AA9-ADD921F19FFB/watchlist.cfm",
+		"/Users/christian/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/christian/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/CE32C150-B361-48B2-91C7-14D6D0B375CC/mapping.cfm",
+		"/Users/christian/runrailo.sh",
+		"/Users/christian/runmongo.sh",
+		"/Users/christian/runserver.sh",
+		"/Applications/railo/webroot/finder_index/test.cfm",
+		"/Users/christian/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/christian/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Applications/railo/webroot/finder_index/import/importFinder.cfc",
+		"/Applications/railo/contexts/railo.xml",
+		"/Applications/railo/webroot/finder_index/shared/finderReader.cfc",
+		"/Applications/railo/webroot_playground/finder/finder.sublime-workspace",
+		"/Applications/railo/webroot_playground/finder/index.cfm",
+		"/Applications/railo/webroot_playground/finder/finder.sublime-project",
+		"/Applications/railo/webroot_playground/finder/cfc/FinderParser.cfc",
+		"/Applications/railo/webroot_playground/finder/writeFlatFinder.cfm",
+		"/Applications/railo/webroot_playground/finder/old_converter.cfm",
+		"/Applications/railo/webroot_playground/form_protector/action.cfm",
+		"/Users/christian/Library/Application Support/Sublime Text 2/Packages/User/Gist.sublime-settings",
+		"/Users/christian/Desktop/zuerichfinder.txt",
+		"/Users/christian/Documents/services.xml",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/DF1A116A-100A-4952-AA6C-07DE55B5DE27/cookietest.cfm",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/F94581F2-2CD7-433E-A158-EFB9DAFFBE38/Application.cfc",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/50C59A7C-033B-47BD-AEAE-894254C15EBD/cookietest.cfm",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/10E4DF35-E1A5-41EB-843F-A263ADDD5403/cookietest.cfm",
+		"/Applications/railo/webroot_playground/cfmongodb/examples/PeopleList/index.cfm",
+		"/Applications/railo/webroot_playground/cfmongodb/examples/PeopleList/load.cfm",
+		"/Applications/railo/webroot_playground/examples/PeopleList/Application.cfc",
+		"/Applications/railo/webroot_playground/cfmongodb/core/Mongo.cfc",
+		"/Applications/railo/webroot_playground/examples/benchmark.cfm",
+		"/Applications/railo/webroot_playground/examples/initMongo.cfm",
+		"/Applications/railo/webroot_playground/examples/gettingstarted.cfm",
+		"/Applications/railo/webroot_playground/examples/PeopleList/detail.cfm",
+		"/Applications/railo/webroot_playground/examples/PeopleList/index.cfm",
+		"/Applications/railo/webroot_playground/examples/PeopleList/load.cfm",
+		"/Applications/railo/webroot_playground/index.cfm",
+		"/Applications/railo/webroot_playground/Application.cfc"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"/",
+			"initApplication",
+			"insert",
+			"search(",
+			"cont",
+			"inter",
+			"javaload",
+			".javal",
+			"]]",
+			"open",
+			"tab",
+			"urk",
+			"f1",
+			"reefield",
+			"import",
+			"filters",
+			"query",
+			"writeFinderToMongo",
+			"throw",
+			"output",
+			"writeFinderToDatabase",
+			"convertToJSON",
+			"finderEntry",
+			"convertToJSON",
+			"readFinder",
+			"testDatabaseConnection",
+			"indexFinderData",
+			"jsonString",
+			"writeFinderToDatabase",
+			"writeFinderInDatabase",
+			"finderResults",
+			"entryStruct",
+			"indexFinderData",
+			" \n",
+			"start",
+			"cflog",
+			"maxrows",
+			"<option value=\"4\"<cfif url.top4 eq 4> selected</cfif>><cfoutput>#application.getPhrase(\"sortOrt\")#</cfoutput></option>",
+			"<cfset args.siteID=application.siteID />",
+			"start",
+			"<cfset args.siteID=application.siteID />",
+			"#start",
+			"start",
+			"star"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 224.0,
+	"status_bar_visible": true
+}
